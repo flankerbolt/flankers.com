@@ -32,11 +32,9 @@ A collaborative project built by a team of 5 executed in 5days.
 - Functionality to make a payment
 
 ## Team Members
-- [Vipin Awadhiya](https://github.com/Vipin115)
-- [Bhavesh Agrawal](https://github.com/Bhavesh-XLV)
-- [Meghna Singh](https://github.com/Meghna9027)
-- [Vishnu PS](https://github.com/VishnuPScodes)
-
+- SHIVANK
+- ANKIT SINGH
+- ARMAN GUPTA
 
 ![Logo](https://images.shopclues.com/images/ui/shopclues_logo@2x.png)
 

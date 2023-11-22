@@ -1,6 +1,6 @@
-# Clone of Shopclues
+# FLANKERS.COM
 
-Shopclues is one of the most famous e-commerce sites in india.
+Flankers is one of the most famous e-commerce sites in india.
 A collaborative project built by a team of 5 executed in 5days.
 
 ## How to run the app?

@@ -33,7 +33,7 @@ A collaborative project built by a team of 5 executed in 5days.
 
 ## Team Members
 - SHIVANK
-- ANKIT SINGH
+- ANKIT KUMAR
 - ARMAN GUPTA
 
 ![Logo](https://images.shopclues.com/images/ui/shopclues_logo@2x.png)

@@ -3,9 +3,6 @@
 Flankers is one of the most famous e-commerce sites in india.
 A collaborative project built by a team of 5 executed in 5days.
 
-## How to run the app?
-- Clone the repo and run the index.html.
-    - https://github.com/HarshalGhutkule/shopclues.com.git
 ## Built with
 - HTML
 - CSS

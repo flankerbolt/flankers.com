@@ -18,7 +18,7 @@ function navbar(){
 
         <div id="logo">
             <a href="/index.html">
-                <img src="https:/images/flanker.png" alt="logo">
+                <img src="./images/flanker.png" alt="logo">
             </a>
             
         </div>

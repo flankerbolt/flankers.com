@@ -18,8 +18,9 @@ function navbar(){
 
         <div id="logo">
             <a href="/index.html">
-                <img src="https://images.shopclues.com/images/ui/shopclues_logo@2x.png" alt="logo">
+                <img src="https:/images/flanker.png" alt="logo">
             </a>
+            
         </div>
 
         <!-- search box -->
